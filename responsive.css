@@ -1,0 +1,18 @@
+@media  (max-width:768px){
+    .nav-links{
+        display: none;
+    }
+    .bi-list{
+        display: block;
+    }
+    .text-box h1{
+        font-size: 30px;
+    }
+    .row{
+        display: block;
+    }
+    .ua h1{
+        font-size: 25px;
+    }
+}
+    
